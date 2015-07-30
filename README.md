@@ -1,5 +1,7 @@
-# hello-world
+/* 
+hello-world
 My first repository on GitHub.
+*/
 
 #include <stdio.h>
 
