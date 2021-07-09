@@ -6,8 +6,8 @@ This is fcpp ^_^
 
 #include <stdio.h>
 
-int main (void)
+int main(void)
 {
-	printf ("hellow world");
-	return 0;
+    printf ("hellow world");
+    return 0;
 }
